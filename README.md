@@ -32,6 +32,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -40,5 +41,10 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
