@@ -12,7 +12,7 @@ This repository contains my Data Structures and Algorithm solutions written in C
 - Graphs
 - Dynamic Programming
 
-## Algorithms:-
+## Algorithms and approaches:-
 - Matrix
 - Prefix/Suffix
 - Sorting
