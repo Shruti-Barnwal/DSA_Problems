@@ -42,6 +42,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0242-valid-anagram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1446-consecutive-characters](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1446-consecutive-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
 ## Sorting
 |  |
@@ -60,4 +61,8 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
