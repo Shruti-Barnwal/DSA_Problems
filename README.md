@@ -54,6 +54,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | ------- |
 | [0136-single-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
+| [3637-trionic-array-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3637-trionic-array-i) |
 ## Queue
 |  |
 | ------- |
