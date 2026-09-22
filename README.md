@@ -52,6 +52,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 ## Queue
 |  |
@@ -65,4 +66,8 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
