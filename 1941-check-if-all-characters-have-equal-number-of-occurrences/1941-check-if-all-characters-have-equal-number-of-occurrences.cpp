@@ -1,14 +1,25 @@
 class Solution {
 public:
     bool areOccurrencesEqual(string s) {
-        unordered_map<char,int>m;
-        for(auto i:s){
-            m[i]++;
+        int n = s.size();
+        int freq[26] = {0};
+
+        for(int i=0;i<n;i++){
+            freq[s[i] - 'a']++;
         }
 
-        auto val = m.begin();
-        for(auto i:m){
-            if(val->second != i.second) return false;
+        int cnt = 0;
+        for(int i=0;i<26;i++){
+            if(freq[i] > 0){
+                cnt = freq[i];
+                break;
+            }
+        }
+
+        for(int i=0;i<26;i++){
+            if(freq[i] > 0){
+                if(freq[i] != cnt) return false;
+            }
         }
         return true;
     }
