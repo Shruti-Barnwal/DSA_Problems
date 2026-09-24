@@ -63,6 +63,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0414-third-maximum-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0414-third-maximum-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3637-trionic-array-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3637-trionic-array-i) |
+| [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
 ## Queue
@@ -93,4 +94,20 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
+## Stack
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
+## Greedy
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
 <!---LeetCode Topics End-->
