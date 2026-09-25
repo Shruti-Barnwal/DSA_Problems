@@ -58,6 +58,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0414-third-maximum-number) |
@@ -105,9 +106,14 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
