@@ -36,6 +36,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -46,6 +47,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1446-consecutive-characters](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
