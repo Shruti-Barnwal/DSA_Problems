@@ -138,6 +138,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
