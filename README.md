@@ -138,6 +138,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
 |  |
@@ -147,4 +148,12 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+## Enumeration
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
+## Number Theory
+|  |
+| ------- |
+| [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
 <!---LeetCode Topics End-->
