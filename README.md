@@ -65,6 +65,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0414-third-maximum-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0414-third-maximum-number) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Queue
 |  |
 | ------- |
@@ -109,6 +111,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
+| [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
