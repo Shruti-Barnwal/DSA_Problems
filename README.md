@@ -42,6 +42,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Queue
 |  |
 | ------- |
