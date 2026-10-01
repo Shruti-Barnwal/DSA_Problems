@@ -39,6 +39,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0771-jewels-and-stones](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
 ## String
@@ -75,6 +76,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
