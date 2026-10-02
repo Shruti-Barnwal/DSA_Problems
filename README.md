@@ -82,6 +82,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
+| [4044-count-good-cyclic-rotations](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4044-count-good-cyclic-rotations) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 ## Queue
@@ -101,6 +102,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [4044-count-good-cyclic-rotations](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4044-count-good-cyclic-rotations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -118,6 +120,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
+| [4044-count-good-cyclic-rotations](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4044-count-good-cyclic-rotations) |
 ## Dynamic Programming
 |  |
 | ------- |
