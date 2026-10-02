@@ -8,18 +8,14 @@ public:
             start[i] = A[i][0];
             end[i] = A[i][1];
         }
+        sort(start.begin(), start.end());
+        sort(end.begin(), end.end());
 
-        sort(start.begin(),start.end());
-        sort(end.begin(),end.end());
-
-        int j=0;
         long long cnt = 0;
-            
-        for(int i=0;i<n;i++){
-            while(j < n && end[j] < start[i]){
-                j++;
-            }
-            cnt += i-j;
+        int j = 0; //points to the end vector
+        for(int i=0;i<n;i++){ // points to the start vector
+            while(j < n && start[i] > end[j]) j++;
+            cnt += i-j;      
         }
         return cnt;
     }
