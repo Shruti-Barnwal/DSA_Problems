@@ -44,6 +44,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
 | [3941-password-strength](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3941-password-strength) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +90,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [4044-count-good-cyclic-rotations](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4044-count-good-cyclic-rotations) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Queue
 |  |
 | ------- |
@@ -97,6 +100,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -174,4 +178,13 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [4039-sum-of-decoded-numbers](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4039-sum-of-decoded-numbers) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
