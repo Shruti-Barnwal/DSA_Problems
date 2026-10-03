@@ -86,6 +86,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
+| [3979-maximum-valid-pair-sum](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3979-maximum-valid-pair-sum) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4039-sum-of-decoded-numbers) |
 | [4044-count-good-cyclic-rotations](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4044-count-good-cyclic-rotations) |
@@ -173,6 +174,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
+| [3979-maximum-valid-pair-sum](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3979-maximum-valid-pair-sum) |
 ## Number Theory
 |  |
 | ------- |
