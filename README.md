@@ -160,6 +160,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [4039-sum-of-decoded-numbers](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4039-sum-of-decoded-numbers) |
 ## Divide and Conquer
 |  |
@@ -179,6 +180,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
 |  |
 | ------- |
