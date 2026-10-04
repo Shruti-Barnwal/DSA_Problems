@@ -1,16 +1,21 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char,int>m;  // O(k) space because we are using k distinct elements
-
-        int l = 0, maxLen = 0;
-        for(int r=0;r<s.size();r++){
-            if(m.count(s[r])){
-                l = max(l, m[s[r]]+1);  // avoid the backward indexing
+        int n = s.size();
+        cout<<n<<" ";
+        unordered_map<char,int>m;
+        int l=0, r=0, maxi = 0;
+        while(r<n){
+            while(m.count(s[r])){
+                m[s[l]]--;
+                if(m[s[l]] == 0) m.erase(s[l]);
+                l++;
             }
-            m[s[r]] = r;
-            maxLen = max(maxLen, r-l+1);
+            m[s[r]]++;
+            int size = m.size();
+            maxi = max(maxi, size);
+            r++;
         }
-        return maxLen;
+        return maxi;
     }
 };
