@@ -2,20 +2,21 @@ class Solution {
 public:
     long long countIntersectingIntervals(vector<vector<int>>& A) {
         int n = A.size();
-        vector<int>start(n), end(n);
-
+        vector<int>s(n), e(n);
         for(int i=0;i<n;i++){
-            start[i] = A[i][0];
-            end[i] = A[i][1];
+            s[i] = A[i][0];
+            e[i] = A[i][1];
         }
-        sort(start.begin(), start.end());
-        sort(end.begin(), end.end());
 
+        sort(s.begin(),s.end());
+        sort(e.begin(),e.end());
+
+        int i = 0, j = 0;
         long long cnt = 0;
-        int j = 0; //points to the end vector
-        for(int i=0;i<n;i++){ // points to the start vector
-            while(j < n && start[i] > end[j]) j++;
-            cnt += i-j;      
+        while(i<n && j<n){
+            while(s[i] > e[j]) j++;
+            cnt += (i-j);
+            i++;
         }
         return cnt;
     }
