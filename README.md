@@ -43,6 +43,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
 | [3941-password-strength](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3941-password-strength) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
@@ -86,6 +87,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3979-maximum-valid-pair-sum](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3979-maximum-valid-pair-sum) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4039-sum-of-decoded-numbers](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4039-sum-of-decoded-numbers) |
@@ -111,6 +113,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4044-count-good-cyclic-rotations) |
 ## Bit Manipulation
 |  |
@@ -129,6 +132,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4044-count-good-cyclic-rotations](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4044-count-good-cyclic-rotations) |
 ## Dynamic Programming
@@ -175,6 +179,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3979-maximum-valid-pair-sum](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3979-maximum-valid-pair-sum) |
 ## Number Theory
 |  |
