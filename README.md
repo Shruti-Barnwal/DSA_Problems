@@ -87,6 +87,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3979-maximum-valid-pair-sum](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3979-maximum-valid-pair-sum) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
