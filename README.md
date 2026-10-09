@@ -69,6 +69,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0414-third-maximum-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0414-third-maximum-number) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4057-number-of-intersecting-interval-pairs-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4057-number-of-intersecting-interval-pairs-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Array
@@ -88,6 +89,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3899-angles-of-a-triangle](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3909-compare-sums-of-bitonic-parts](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
@@ -164,12 +166,14 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [3794-reverse-string-prefix](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3794-reverse-string-prefix) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3899-angles-of-a-triangle](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3899-angles-of-a-triangle) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -193,10 +197,12 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Simulation
 |  |
 | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4039-sum-of-decoded-numbers](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4039-sum-of-decoded-numbers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
