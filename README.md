@@ -89,6 +89,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
+| [3819-rotate-non-negative-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3899-angles-of-a-triangle](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -204,6 +205,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Simulation
 |  |
 | ------- |
+| [3819-rotate-non-negative-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4039-sum-of-decoded-numbers](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4039-sum-of-decoded-numbers) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
