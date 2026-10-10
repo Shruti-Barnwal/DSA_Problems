@@ -42,6 +42,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
+| [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
 | [3941-password-strength](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3941-password-strength) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -88,6 +89,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
 | [3819-rotate-non-negative-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -194,6 +196,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
+| [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3979-maximum-valid-pair-sum](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3979-maximum-valid-pair-sum) |
 ## Number Theory
