@@ -36,6 +36,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -81,6 +82,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [3637-trionic-array-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3637-trionic-array-i) |
@@ -140,6 +142,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1991-find-the-middle-index-in-array) |
