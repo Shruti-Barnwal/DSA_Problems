@@ -79,6 +79,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0011-container-with-most-water](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0414-third-maximum-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -138,6 +139,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1991-find-the-middle-index-in-array) |
