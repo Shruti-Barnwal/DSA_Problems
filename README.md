@@ -44,6 +44,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
+| [3843-first-element-with-unique-frequency](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [3941-password-strength](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3941-password-strength) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
@@ -95,6 +96,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
 | [3819-rotate-non-negative-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3819-rotate-non-negative-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3899-angles-of-a-triangle](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3899-angles-of-a-triangle) |
 | [3904-smallest-stable-index-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -116,6 +118,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3843-first-element-with-unique-frequency](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
