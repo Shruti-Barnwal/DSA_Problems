@@ -42,6 +42,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
@@ -64,6 +65,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
 | [3941-password-strength](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3941-password-strength) |
@@ -94,6 +96,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
@@ -209,6 +212,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [3765-complete-prime-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3765-complete-prime-number) |
+| [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [3979-maximum-valid-pair-sum](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3979-maximum-valid-pair-sum) |
