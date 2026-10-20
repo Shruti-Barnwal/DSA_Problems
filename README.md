@@ -40,6 +40,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0771-jewels-and-stones](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -93,6 +94,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [3637-trionic-array-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
@@ -124,6 +126,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3843-first-element-with-unique-frequency](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -156,6 +159,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1208-get-equal-substrings-within-budget) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3788-maximum-score-of-a-split) |
 | [3904-smallest-stable-index-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -202,6 +206,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Divide and Conquer
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Quickselect
@@ -244,10 +249,12 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Segment Tree
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Geometry
 |  |
