@@ -41,6 +41,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -95,6 +96,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3637-trionic-array-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
