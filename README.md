@@ -67,6 +67,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
@@ -191,6 +192,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -232,6 +234,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 ## Simulation
 |  |
 | ------- |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3819-rotate-non-negative-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4039-sum-of-decoded-numbers](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4039-sum-of-decoded-numbers) |
