@@ -3,24 +3,18 @@ public:
     int minimumDistance(vector<int>& nums) {
         int n = nums.size();
         unordered_map<int,vector<int>>m;
+        int mini = INT_MAX;
 
         for(int i=0;i<n;i++){
             m[nums[i]].push_back(i);
-        }
+            if(m[nums[i]].size() >= 3){
+                vector<int>&v = m[nums[i]];
+                int size = v.size();
 
-        int mini = INT_MAX;
-        for(auto i:m){
-            vector<int>v = i.second;
-            int size = v.size();
-            if(size >= 3){
-                for(int j=0;j<=size-3;j++){
-                    int ans = abs(v[j]-v[j+1]) + abs(v[j+1]-v[j+2]) + abs(v[j]-v[j+2]);
-                    mini = min(mini, ans);
-                }
+                int k = v[size-3];
+                mini = min(mini, 2*abs(k-i));
             }
         }
-        return mini == INT_MAX ? -1 : mini;
+        return mini == INT_MAX ? -1:mini;
     }
 };
-
-// [5,3,5,5,5] 
