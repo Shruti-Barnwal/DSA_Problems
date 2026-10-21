@@ -48,6 +48,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [3941-password-strength](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3941-password-strength) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -71,6 +72,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3794-reverse-string-prefix](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3794-reverse-string-prefix) |
 | [3803-count-residue-prefixes](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3803-count-residue-prefixes) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3839-number-of-prefix-connected-groups) |
 | [3941-password-strength](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3941-password-strength) |
 ## Sorting
 |  |
@@ -107,6 +109,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [3804-number-of-centered-subarrays](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3804-number-of-centered-subarrays) |
 | [3809-best-reachable-tower](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3809-best-reachable-tower) |
 | [3819-rotate-non-negative-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3819-rotate-non-negative-elements) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3899-angles-of-a-triangle](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3899-angles-of-a-triangle) |
@@ -131,6 +134,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3839-number-of-prefix-connected-groups](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3839-number-of-prefix-connected-groups) |
 | [3843-first-element-with-unique-frequency](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
