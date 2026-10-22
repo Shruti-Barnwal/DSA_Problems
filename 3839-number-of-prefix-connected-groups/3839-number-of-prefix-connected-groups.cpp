@@ -9,10 +9,10 @@ public:
             m[s]++;
         }
 
-        for(auto i:m){
-            cout<<i.first<<"->"<<i.second<<"   ";
-        }
-        cout<<endl;
+        // for(auto i:m){
+        //     cout<<i.first<<"->"<<i.second<<"   ";
+        // }
+        // cout<<endl;
 
         int cnt = 0;
         for(auto i:m){
