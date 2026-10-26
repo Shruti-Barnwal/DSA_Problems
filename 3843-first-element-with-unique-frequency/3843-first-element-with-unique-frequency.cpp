@@ -2,19 +2,19 @@ class Solution {
 public:
     int firstUniqueFreq(vector<int>& nums) {
         int n = nums.size();
-        unordered_map<int,int>m; // stores freq of an array
-        unordered_map<int,int>freq;  // stores freq of the freq
+        unordered_map<int,int>freq;
+        unordered_map<int,int>freqCnt;
 
         for(int i=0;i<n;i++){
-            m[nums[i]]++;
+            freq[nums[i]]++;
         }
 
-        for(auto i:m){
-            freq[i.second]++;
+        for(auto i:freq){
+            freqCnt[i.second]++;
         }
 
         for(int i=0;i<n;i++){
-            if(freq[m[nums[i]]] == 1) return nums[i];
+            if(freqCnt[freq[nums[i]]] == 1) return nums[i];
         }
         return -1;
     }
