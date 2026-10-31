@@ -80,6 +80,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0455-assign-cookies) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -93,6 +94,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 | [0217-contains-duplicate](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -186,6 +188,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0455-assign-cookies) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3638-maximum-balanced-shipments](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3638-maximum-balanced-shipments) |
 ## Monotonic Stack
@@ -196,6 +199,7 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0455-assign-cookies) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -269,4 +273,8 @@ To improve problem-solving skills and prepare for coding interviews and placemen
 |  |
 | ------- |
 | [3899-angles-of-a-triangle](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/3899-angles-of-a-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Shruti-Barnwal/DSA_Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
